@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "A starting point for Polymer 1.0 custom build apps",
   "license": "http://polymer.github.io/LICENSE.txt",
+  "scripts": {
+    "build": "gulp"
+  },
   "devDependencies": {
     "del": "^2.2.1",
     "gulp": "gulpjs/gulp#4.0",
